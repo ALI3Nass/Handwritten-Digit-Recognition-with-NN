@@ -13,7 +13,7 @@ This project demonstrates handwritten digit recognition using a neural network m
 
 ## Installation
 
-1. Clone the repository: 
+1. Clone the repository: git clone https://github.com/astrophile481/Handwritten-Digit-Recognition-with-NN.git
 2. Change into the project directory: cd Handwritten-Digit-Recognition-with-NN
 
 ## Usage
